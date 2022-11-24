@@ -187,7 +187,7 @@
       role="tab"
       aria-controls="ex1-tabs-1"
       aria-selected="true"
-      >Tab 1</a
+      >Facilities</a
     >
   </li>
   <li class="nav-item" role="presentation">
@@ -199,7 +199,7 @@
       role="tab"
       aria-controls="ex1-tabs-2"
       aria-selected="false"
-      >Tab 2</a
+      >Products</a
     >
   </li>
   <li class="nav-item" role="presentation">
@@ -211,7 +211,7 @@
       role="tab"
       aria-controls="ex1-tabs-3"
       aria-selected="false"
-      >Tab 3</a
+      >Workforce</a
     >
   </li>
 </ul>

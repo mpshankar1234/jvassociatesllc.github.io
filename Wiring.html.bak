@@ -115,13 +115,13 @@
               data-bs-toggle="dropdown"
               >Our Services</a
             >
-            <div class="dropdown-menu bg-light m-0">
-              <a href="#" class="dropdown-item">PCBA &  Wiring Harness  </a>
-              <a href="#" class="dropdown-item">Engineering Plastic Components   </a>
-              <a href="#" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
-              <a href="#" class="dropdown-item">Molded Rubber components </a>
-              <a href="#" class="dropdown-item">IT services </a>
-              <a href="#" class="dropdown-item">Engineering Services </a>
+           <div class="dropdown-menu bg-light m-0">
+              <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
+              <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
+              <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+              <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
+              <a href="ITServices.html" class="dropdown-item">IT services </a>
+              <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
             </div>
           </div>
           <a href="#" class="nav-item nav-link">Careers</a>
@@ -179,19 +179,19 @@
                             <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Products</span> </a>
                             <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
                             <li class="w-100">
-                                <a href="#" class="nav-link px-0" style="margin-left:10px;"> <span class="d-none d-sm-inline">Automotives</span> </a>
+                                <a href="#" class="nav-link px-0" style="margin-left:20px;"> <span class="d-none d-sm-inline">Automotives</span> </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Lab Instruments</span></a>
+                                <a href="#" class="nav-link px-0" style="margin-left:20px;"> <span class="d-none d-sm-inline">Lab Instruments</span></a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Tools </span> </a>
+                                <a href="#" class="nav-link px-0" style="margin-left:20px;"> <span class="d-none d-sm-inline">Tools </span> </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Product</span></a>
+                                <a href="#" class="nav-link px-0" style="margin-left:20px;"> <span class="d-none d-sm-inline">Product</span></a>
                             </li>
 							 <li>
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Logistics</span></a>
+                                <a href="#" class="nav-link px-0" style="margin-left:20px;"> <span class="d-none d-sm-inline">Logistics</span></a>
                             </li>
                         </ul>
                     </li>
@@ -220,6 +220,32 @@
             <p class="mb-0">
               We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of
             </p>
+			
+			 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="service-item bg-light overflow-hidden h-100 shadow">
+              <img class="img-fluid" src="img/OurProductAutomotives.png" alt="" />
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">Our Products Automotives</h5>
+                <p>
+                  We Manufacture the required parts for automobiles
+                </p>
+                
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="service-item bg-light overflow-hidden h-100 shadow">
+              <img class="img-fluid" src="img/OurDesign.png" alt="" />
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">Our Design</h5>
+                <p>
+                  We design world class items 
+                </p>
+               
+              </div>
+            </div>
+          </div>
           </div>
         </div>
       </div>
@@ -236,7 +262,14 @@
         <div class="row g-5">
           <div class="col-lg-4 col-md-6">
             <h1 class="text-white mb-4">
-              <i class="fa fa-building text-primary me-3"></i>JV Associate
+               <a href="index.html" class="navbar-brand d-flex align-items-center">
+        <h1 class="m-0">
+          <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
+		  
+		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
+		  
+        </h1>
+      </a>
             </h1>
             <p>
               We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of

@@ -87,7 +87,7 @@
     <nav
       class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0"
     >
-      <a href="index.html" class="navbar-brand d-flex align-items-center">
+     <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
           <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
 		  
@@ -106,7 +106,7 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-3 py-lg-0">
           <a href="index.html" class="nav-item nav-link ">Home</a>
-          <a href="about.html" class="nav-item nav-link ">About Us</a>
+          <a href="#" class="nav-item nav-link active">About Us</a>
           <!--<a href="service.html" class="nav-item nav-link">Our Services</a>-->
           <div class="nav-item dropdown">
             <a
@@ -116,12 +116,12 @@
               >Our Services</a
             >
             <div class="dropdown-menu bg-light m-0">
-              <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
-              <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
-              <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
-              <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
-              <a href="ITServices.html" class="dropdown-item">IT services </a>
-              <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
+              <a href="#" class="dropdown-item">PCBA &  Wiring Harness  </a>
+              <a href="#" class="dropdown-item">Engineering Plastic Components   </a>
+              <a href="#" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+              <a href="#" class="dropdown-item">Molded Rubber components </a>
+              <a href="#" class="dropdown-item">IT services </a>
+              <a href="#" class="dropdown-item">Engineering Services </a>
             </div>
           </div>
           <a href="#" class="nav-item nav-link">Careers</a>
@@ -133,11 +133,11 @@
 
     <!-- Page Header Start -->
     <div
-      class="container-fluid page-headerIT py-5 mb-5 wow fadeIn"
+      class="container-fluid page-header py-5 mb-5 wow fadeIn"
       data-wow-delay="0.1s"
     >
       <div class="container text-center py-5">
-        <h1 class="display-4 text-white animated slideInDown mb-4">IT Services</h1>
+        <h1 class="display-4 text-white animated slideInDown mb-4">About Us</h1>
         <nav aria-label="breadcrumb animated slideInDown">
           <ol class="breadcrumb justify-content-center mb-0">
             <li class="breadcrumb-item">
@@ -145,7 +145,7 @@
             </li>
            
             <li class="breadcrumb-item text-primary active" aria-current="page">
-             IT Services
+              About
             </li>
           </ol>
         </nav>
@@ -161,11 +161,12 @@
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="list-group">
    
-              <a href="#" class="list-group-item active"><span>Information Technologies</span></a>              
-              <a href="#" class="list-group-item"><span>Web Development</span></a>
-              <a href="#" class="list-group-item"><span>Mobile App</span></a>
-              <a href="#" class="list-group-item"><span>Maintenace</span></a>
-              <a href="#" class="list-group-item"><span>Services</span></a>
+              <a href="#" class="list-group-item active"><span>Menu</span></a>
+              <a href="#" class="list-group-item"><span>Menu item 1</span></a>
+              <a href="#" class="list-group-item"><span>Menu item 1</span></a>
+              <a href="#" class="list-group-item"><span>Menu item 2</span></a>
+              <a href="#" class="list-group-item"><span>Menu item 3</span></a>
+              <a href="#" class="list-group-item"><span>Menu item 4</span></a>
           
           
             </div>
@@ -173,96 +174,13 @@
 
           <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
             <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2"></h6>
+              <h6 class="text-body text-uppercase mb-2">About Us</h6>
               <h1 class="display-6 mb-0">
-               IT Services
+                Why JV Associate?
               </h1>
             </div>
             <p class="mb-0">
-              We have been a leader in molding precision engineering components with complex requirements for demanding applications and an end-to-end solution provider for decades. Over the past 20+ years, we have developed and maintained a solid reputation for building partnerships and producing quality plastic products. With our focus on high quality products, quick turnaround times and our experienced & dedicated staff, we work in close collaboration with our clients to ensure successful project outcomes and provide a full range of manufacturing services of tool design & development, injection molding & complete assemblies for various markets such as Automobile, Electrical, Telecommunication and General applications. We are delivering excellence by consistently providing customers with extraordinary quality, first-class customer service, competitive pricing, and timely delivery. With 550 skilled employees, 73 Molding machines, 125,000 sq, ft manufacturing area, 2500 MTs of plastic converted annually and fully backed by our own sophisticated tool room, our growth is unmatched in the industry.
-Headquarter in Mysore, India that are vertically integrated in design, manufacturing, processing, assembly, printing and packaging, thus expediting its response to changes in customer needs and market requirements. Moreover, all of our manufacturing facilities are certified to ISO 9001:2015 accreditation, IATF 16949-2016 complying with top-level quality systems and minimizing environmental impacts.
-
-Building its competitive advantage upon the core goals of innovation, continuous improvement, add value to our customer and complete customer satisfaction, we always spare no effort in advanced research and development to maintain its leading position and continually invests in its manufacturing operations to ensure customers receive the highest quality products and services.
-
-            </p>
-          </div>
-		  
-		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2"> Areas of Expertise and capabilities</h6>
-             
-            </div>
-            <p class="mb-0">
-             o	In House multicavity hot and cold runner mold Design & Development <br>
-o	Injection Molding in Close loop & hybrid machines  <br>
-o	Insert Molding  <br>
-o	Over Molding  <br>
-o	Assembly and sub assembly of parts  <br>
-o	In house manufacturing of Jigs & Fixtures, Gauges for assembly <br>
-o	In house testing lab <br>
-o	Secondary operations –  <br>
-	  	  I.	Ultrasonic welding  <br>
-		  II.	Burnishing 
-
-            </p>
-          </div>
-		  
-		  
-		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2">Sheet Metal Components</h6>
-              <h1 class="display-6 mb-0">
-               
-              </h1>
-            </div>
-            <p class="mb-0">
-              We one stop Manufacturing solutions for various Sheet Metal industries, specializes in sheet metal fabrication for mechanical products & assemblies.  With in-house capabilities to design the process, develop the Tooling and manufacturing we have become an industry leader in contract manufacturing. 
-Our state-of-the-art equipment is designed to give our customers the highest quality product, and most are fully automated with unattended lights-out operations. All of our manufacturing facilities are certified to ISO 9001:2000 accreditation, IATF 16949-2016 from TUV complying with top-level quality systems and focus on Lean Manufacturing and Continuous Improvement every day. Our operational scalability and purchasing power help our customers face the challenges of demand fluctuations, design changes, short product lifecycles, and short lead times. 
-
-            </p>
-          </div>
-		  
-		  
-		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2">Areas of Expertise and capabilities</h6>
-              <h1 class="display-6 mb-0">
-              
-              </h1>
-            </div>
-            <p class="mb-0">
-            o	In House process design, tool development and manufacturing <br>
-o	Sheet metal fabrication <br>
-o	Pressed parts<br>
-o	Tubular Parts<br>
-o	Wire Parts<br>
-o	Welding assemblies<br>
-o	Laser cutting<br>
-o	Assembly and sub assembly of parts <br>
-o	In house testing lab<br>
-o	In house manufacturing of Jigs & Fixtures, Gauges for assembly<br>
-
-            </p>
-          </div>
-		  
-		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2">state-of-the-art equipments</h6>
-              <h1 class="display-6 mb-0">
-              
-              </h1>
-            </div>
-            <p class="mb-0">
-            o	Mechanical Presses 10 - 250 TON <br>
-o	Hydraulic Presses 40 - 100 TON<br>
-o	NC Feeder- 160 TON<br>
-o	Robot Co2 welding machines<br>
-o	Projection & SPOT welding machines<br>
-o	CNC Wire bending machine<br>
-o	CNC Tube bending machine<br>
-o	Shearing Machine<br>
-
-
+              We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of
             </p>
           </div>
         </div>
@@ -280,7 +198,7 @@ o	Shearing Machine<br>
         <div class="row g-5">
           <div class="col-lg-4 col-md-6">
             <h1 class="text-white mb-4">
-             <a href="index.html" class="navbar-brand d-flex align-items-center">
+              <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
           <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
 		  
