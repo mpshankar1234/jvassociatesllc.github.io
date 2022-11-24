@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>JV Associate - About Us</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="" name="keywords" />
+    <meta content="" name="description" />
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon" />
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Poppins:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">
+    <!-- Icon Font Stylesheet -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css"
+      rel="stylesheet"
+    />
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet" />
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+    <!-- Spinner Start -->
+    <div
+      id="spinner"
+      class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center"
+    >
+      <div class="spinner-grow text-primary" role="status"></div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-light p-0">
+      <div class="row gx-0 d-none d-lg-flex">
+        <div class="col-lg-7 px-5 text-start">
+          <div
+            class="h-100 d-inline-flex align-items-center border-start border-end px-3"
+          >
+            <small class="fa fa-phone-alt me-2"></small>
+            <small>+012 345 6789</small>
+          </div>
+          <div class="h-100 d-inline-flex align-items-center border-end px-3">
+            <small class="far fa-envelope-open me-2"></small>
+            <small>info@example.com</small>
+          </div>
+          <div class="h-100 d-inline-flex align-items-center border-end px-3">
+            <small class="far fa-clock me-2"></small>
+            <small>Mon - Fri : 09 AM - 09 PM</small>
+          </div>
+        </div>
+        <div class="col-lg-5 px-5 text-end">
+          <div class="h-100 d-inline-flex align-items-center">
+            <a class="btn btn-square border-end border-start" href=""
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+            <a class="btn btn-square border-end" href=""
+              ><i class="fab fa-twitter"></i
+            ></a>
+            <a class="btn btn-square border-end" href=""
+              ><i class="fab fa-linkedin-in"></i
+            ></a>
+            <a class="btn btn-square border-end" href=""
+              ><i class="fab fa-instagram"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Topbar End -->
+
+    <!-- Navbar Start -->
+    <nav
+      class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0"
+    >
+      <a href="index.html" class="navbar-brand d-flex align-items-center">
+        <h1 class="m-0">
+          <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
+		  
+		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
+		  
+        </h1>
+      </a>
+      <button
+        type="button"
+        class="navbar-toggler"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarCollapse"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav ms-auto py-3 py-lg-0">
+          <a href="index.html" class="nav-item nav-link ">Home</a>
+          <a href="about.html" class="nav-item nav-link ">About Us</a>
+          <!--<a href="service.html" class="nav-item nav-link">Our Services</a>-->
+          <div class="nav-item dropdown">
+            <a
+              href="#"
+              class="nav-link dropdown-toggle"
+              data-bs-toggle="dropdown"
+              >Our Services</a
+            >
+            <div class="dropdown-menu bg-light m-0">
+              <a href="#" class="dropdown-item">PCBA &  Wiring Harness  </a>
+              <a href="#" class="dropdown-item ">Engineering Plastic Components   </a>
+              <a href="#" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+              <a href="#" class="dropdown-item">Molded Rubber components </a>
+              <a href="#" class="dropdown-item active">IT services </a>
+              <a href="#" class="dropdown-item">Engineering Services </a>
+            </div>
+          </div>
+          <a href="#" class="nav-item nav-link">Careers</a>
+          <a href="#" class="nav-item nav-link">Contact Us</a>
+        </div>
+      </div>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- Page Header Start -->
+    <div
+      class="container-fluid page-header py-5 mb-5 wow fadeIn"
+      data-wow-delay="0.1s"
+    >
+      <div class="container text-center py-5">
+        <h1 class="display-4 text-white animated slideInDown mb-4">IT Services</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+          <ol class="breadcrumb justify-content-center mb-0">
+            <li class="breadcrumb-item">
+              <a class="text-white" href="index.html">Home</a>
+            </li>
+           
+            <li class="breadcrumb-item text-primary active" aria-current="page">
+             IT Services
+            </li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+      <div class="container">
+        <div class="row g-5">
+        
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="list-group">
+   
+              <a href="#" class="list-group-item active"><span>Information Technologies</span></a>              
+              <a href="#" class="list-group-item"><span>Web Development</span></a>
+              <a href="#" class="list-group-item"><span>Mobile App</span></a>
+              <a href="#" class="list-group-item"><span>Maintenace</span></a>
+              <a href="#" class="list-group-item"><span>Services</span></a>
+          
+          
+            </div>
+          </div>
+
+          <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="border-start border-5 border-primary ps-4 mb-5">
+              <h6 class="text-body text-uppercase mb-2"></h6>
+              <h1 class="display-6 mb-0">
+               IT Services
+              </h1>
+            </div>
+            <p class="mb-0">
+              We have been a leader in molding precision engineering components with complex requirements for demanding applications and an end-to-end solution provider for decades. Over the past 20+ years, we have developed and maintained a solid reputation for building partnerships and producing quality plastic products. With our focus on high quality products, quick turnaround times and our experienced & dedicated staff, we work in close collaboration with our clients to ensure successful project outcomes and provide a full range of manufacturing services of tool design & development, injection molding & complete assemblies for various markets such as Automobile, Electrical, Telecommunication and General applications. We are delivering excellence by consistently providing customers with extraordinary quality, first-class customer service, competitive pricing, and timely delivery. With 550 skilled employees, 73 Molding machines, 125,000 sq, ft manufacturing area, 2500 MTs of plastic converted annually and fully backed by our own sophisticated tool room, our growth is unmatched in the industry.
+Headquarter in Mysore, India that are vertically integrated in design, manufacturing, processing, assembly, printing and packaging, thus expediting its response to changes in customer needs and market requirements. Moreover, all of our manufacturing facilities are certified to ISO 9001:2015 accreditation, IATF 16949-2016 complying with top-level quality systems and minimizing environmental impacts.
+
+Building its competitive advantage upon the core goals of innovation, continuous improvement, add value to our customer and complete customer satisfaction, we always spare no effort in advanced research and development to maintain its leading position and continually invests in its manufacturing operations to ensure customers receive the highest quality products and services.
+
+            </p>
+          </div>
+		  
+		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="border-start border-5 border-primary ps-4 mb-5">
+              <h6 class="text-body text-uppercase mb-2"> Areas of Expertise and capabilities</h6>
+             
+            </div>
+            <p class="mb-0">
+             o	In House multicavity hot and cold runner mold Design & Development <br>
+o	Injection Molding in Close loop & hybrid machines  <br>
+o	Insert Molding  <br>
+o	Over Molding  <br>
+o	Assembly and sub assembly of parts  <br>
+o	In house manufacturing of Jigs & Fixtures, Gauges for assembly <br>
+o	In house testing lab <br>
+o	Secondary operations –  <br>
+	  	  I.	Ultrasonic welding  <br>
+		  II.	Burnishing 
+
+            </p>
+          </div>
+		  
+		  
+		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="border-start border-5 border-primary ps-4 mb-5">
+              <h6 class="text-body text-uppercase mb-2">Sheet Metal Components</h6>
+              <h1 class="display-6 mb-0">
+               
+              </h1>
+            </div>
+            <p class="mb-0">
+              We one stop Manufacturing solutions for various Sheet Metal industries, specializes in sheet metal fabrication for mechanical products & assemblies.  With in-house capabilities to design the process, develop the Tooling and manufacturing we have become an industry leader in contract manufacturing. 
+Our state-of-the-art equipment is designed to give our customers the highest quality product, and most are fully automated with unattended lights-out operations. All of our manufacturing facilities are certified to ISO 9001:2000 accreditation, IATF 16949-2016 from TUV complying with top-level quality systems and focus on Lean Manufacturing and Continuous Improvement every day. Our operational scalability and purchasing power help our customers face the challenges of demand fluctuations, design changes, short product lifecycles, and short lead times. 
+
+            </p>
+          </div>
+		  
+		  
+		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="border-start border-5 border-primary ps-4 mb-5">
+              <h6 class="text-body text-uppercase mb-2">Areas of Expertise and capabilities</h6>
+              <h1 class="display-6 mb-0">
+              
+              </h1>
+            </div>
+            <p class="mb-0">
+            o	In House process design, tool development and manufacturing <br>
+o	Sheet metal fabrication <br>
+o	Pressed parts<br>
+o	Tubular Parts<br>
+o	Wire Parts<br>
+o	Welding assemblies<br>
+o	Laser cutting<br>
+o	Assembly and sub assembly of parts <br>
+o	In house testing lab<br>
+o	In house manufacturing of Jigs & Fixtures, Gauges for assembly<br>
+
+            </p>
+          </div>
+		  
+		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="border-start border-5 border-primary ps-4 mb-5">
+              <h6 class="text-body text-uppercase mb-2">state-of-the-art equipments</h6>
+              <h1 class="display-6 mb-0">
+              
+              </h1>
+            </div>
+            <p class="mb-0">
+            o	Mechanical Presses 10 - 250 TON <br>
+o	Hydraulic Presses 40 - 100 TON<br>
+o	NC Feeder- 160 TON<br>
+o	Robot Co2 welding machines<br>
+o	Projection & SPOT welding machines<br>
+o	CNC Wire bending machine<br>
+o	CNC Tube bending machine<br>
+o	Shearing Machine<br>
+
+
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Footer Start -->
+    <div
+      class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn"
+      data-wow-delay="0.1s"
+    >
+      <div class="container py-5">
+        <div class="row g-5">
+          <div class="col-lg-4 col-md-6">
+            <h1 class="text-white mb-4">
+              <i class="fa fa-building text-primary me-3"></i>JV Associate
+            </h1>
+            <p>
+              We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of
+            </p>
+            
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <h4 class="text-light mb-4">Address</h4>
+            <p>
+              <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA
+            </p>
+            <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+            <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <h4 class="text-light mb-4">Quick Links</h4>
+            <a class="btn btn-link" href="">About Us</a>
+            <a class="btn btn-link" href="">Our Services</a>
+            <a class="btn btn-link" href="">Careers</a>
+            <a class="btn btn-link" href="contactus.html">Contact Us</a>
+          </div>
+          
+        </div>
+      </div>
+      <div class="container-fluid copyright">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+              &copy;2022 <a href="#">JV Associate</a>, All Right Reserved.
+            </div>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
+      ><i class="bi bi-arrow-up"></i
+    ></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+  </body>
+</html>
