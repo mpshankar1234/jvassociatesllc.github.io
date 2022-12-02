@@ -89,7 +89,7 @@
     >
      <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
-          <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
+         <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
 		  
 		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
 		  
@@ -116,12 +116,12 @@
               >Our Services</a
             >
             <div class="dropdown-menu bg-light m-0">
-              <a href="#" class="dropdown-item">PCBA &  Wiring Harness  </a>
-              <a href="#" class="dropdown-item">Engineering Plastic Components   </a>
-              <a href="#" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
-              <a href="#" class="dropdown-item">Molded Rubber components </a>
-              <a href="#" class="dropdown-item">IT services </a>
-              <a href="#" class="dropdown-item">Engineering Services </a>
+              <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
+              <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
+              <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+              <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
+              <a href="ITServices.html" class="dropdown-item">IT services </a>
+              <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
             </div>
           </div>
           <a href="#" class="nav-item nav-link">Careers</a>
@@ -154,99 +154,222 @@
     <!-- Page Header End -->
 
     <!-- About Start -->
-    <div class="container-xxl py-5">
+      <!-- About Start -->
+     <div class="container-xxl py-5">
       <div class="container">
-	  <div class="row g-12 wow fadeInUp" style="margin-top:-80px;padding-bottom:15px;height:60px;
-	  ">
 	  
-	  <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h3 class="text-body text-uppercase mb-2">Engineering Services</h3>
-              <h1 class="display-6 mb-0">
-               
-              </h1>
-            </div>
-            <p class="mb-0">
-              We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of
-            </p>
-          </div>
-		  
-	 <!-- Tabs navs -->
-
+	    <div class="row g-12 wow fadeInUp" style="margin-top:-80px;padding-bottom:15px;height:60px;
+	  ">
+	  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" style="color:white;" href="#">Our Faclilities</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" style="color:white;" href="">Our Products</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" style="color:white;" href="#">Workforce</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" style="color:white;" href="#">Clients</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" style="color:white;" href="#">Locations</a>
+            </li>
+        </ul>
+    </div>   
+</nav>
 	  </div>
-        <div class="row g-5 wow fadeInUp" style="margin-top:30px;
+	
+        <div class="row g-5" style="margin-top:10px;
 	  ">
         
-        <ul class="nav nav-tabs mb-3" id="ex1" role="tablist">
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link active"
-      id="ex1-tab-1"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-1"
-      role="tab"
-      aria-controls="ex1-tabs-1"
-      aria-selected="true"
-      >Facilities</a
-    >
-  </li>
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link"
-      id="ex1-tab-2"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-2"
-      role="tab"
-      aria-controls="ex1-tabs-2"
-      aria-selected="false"
-      >Products</a
-    >
-  </li>
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link"
-      id="ex1-tab-3"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-3"
-      role="tab"
-      aria-controls="ex1-tabs-3"
-      aria-selected="false"
-      >Workforce</a
-    >
-  </li>
-</ul>
-<!-- Tabs navs -->
-
-<!-- Tabs content -->
-<div class="tab-content" id="ex1-content">
-  <div
-    class="tab-pane fade show active"
-    id="ex1-tabs-1"
-    role="tabpanel"
-    aria-labelledby="ex1-tab-1"
-  >
-    We have been a leader in molding precision engineering components with complex requirements for demanding applications and an end-to-end solution provider for decades. Over the past 20+ years, we have developed and maintained a solid reputation for building partnerships and producing quality plastic products. With our focus on high quality products, quick turnaround times and our experienced & dedicated staff, we work in close collaboration with our clients to ensure successful project outcomes and provide a full range of manufacturing services of tool design & development, injection molding & complete assemblies for various markets such as Automobile, Electrical, Telecommunication and General applications. We are delivering excellence by consistently providing customers with extraordinary quality, first-class customer service, competitive pricing, and timely delivery. With 550 skilled employees, 73 Molding machines, 125,000 sq, ft manufacturing area, 2500 MTs of plastic converted annually and fully backed by our own sophisticated tool room, our growth is unmatched in the industry.
-Headquarter in Mysore, India that are vertically integrated in design, manufacturing, processing, assembly, printing and packaging, thus expediting its response to changes in customer needs and market requirements. Moreover, all of our manufacturing facilities are certified to ISO 9001:2015 accreditation, IATF 16949-2016 complying with top-level quality systems and minimizing environmental impacts.
-
-Building its competitive advantage upon the core goals of innovation, continuous improvement, add value to our customer and complete customer satisfaction, we always spare no effort in advanced research and development to maintain its leading position and continually invests in its manufacturing operations to ensure customers receive the highest quality products and services.
-
-  </div>
-  <div class="tab-pane fade" id="ex1-tabs-2" role="tabpanel" aria-labelledby="ex1-tab-2">
-    We one stop Manufacturing solutions for various Sheet Metal industries, specializes in sheet metal fabrication for mechanical products & assemblies.  With in-house capabilities to design the process, develop the Tooling and manufacturing we have become an industry leader in contract manufacturing. 
-Our state-of-the-art equipment is designed to give our customers the highest quality product, and most are fully automated with unattended lights-out operations. All of our manufacturing facilities are certified to ISO 9001:2000 accreditation, IATF 16949-2016 from TUV complying with top-level quality systems and focus on Lean Manufacturing and Continuous Improvement every day. Our operational scalability and purchasing power help our customers face the challenges of demand fluctuations, design changes, short product lifecycles, and short lead times. 
-
-  </div>
-  <div class="tab-pane fade" id="ex1-tabs-3" role="tabpanel" aria-labelledby="ex1-tab-3">
-    Building its competitive advantage upon the core goals of innovation, continuous improvement, add value to our customer and complete customer satisfaction, we always spare no effort in advanced research and development to maintain its leading position and continually invests in its manufacturing operations to ensure customers receive the highest quality products and services.
-
-  </div>
-</div>
-<!-- Tabs content -->
-
+        <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="list-group">
+   
+              <a href="#" class="list-group-item active"><span>Engineering Services</span></a>
+              <a href="#" id="item1"  class="list-group-item"><span>Our Faclilities</span></a>
+              <a href="#" id="item2"  class="list-group-item"><span>Our Products</span></a>
+              <a href="#" id="item3"  class="list-group-item"><span>Workforce</span></a>
+              <a href="#" id="item4"  class="list-group-item"><span>Clients</span></a>
+              <a href="#" id="item5"  class="list-group-item"><span>Locations</span></a>
           
+          
+            </div>
+          </div>-->
+
+          <div class="col-lg-12 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+                    
+		  
+		  <section id="EngProduct" class="py-5">
+		  
+            <div class="row g-6">
+              
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <div class="h-100">
+                  <div class="border-start border-5 border-primary ps-4 mb-5">
+                    <h6 class="text-body text-uppercase mb-2"></h6>
+                    <h1 class="display-6 mb-0">
+                     Engineering Plastic
+
+                    </h1>
+                  </div>
+                 
+
+
+
+
+                   <ul style="list-style-type: square; font-family: sans-serif;
+    font-weight: 20; font-weight:bold;
+	">
+	
+	
+
+
+
+
+
+
+
+
+	
+				  <li >55 to 180T Injection molding machines
+</li>
+				  <li>Precision ARBURG molding line
+</li>
+				  <li>Inhouse Tool Room with CNC machining center
+</li>
+ <li>CAD center
+</li>
+ 
+				  
+				</ul>
+                  
+                </div>
+              </div>
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
+                   <img class="position-absolute w-100 h-100" src="img/carousel-2.jpg" alt="" style="object-fit: cover">
+             
+                </div>
+              </div>
+
+            </div>
+          </section>
+          
+		   <section id="EngFacility">
+            <div class="row g-6">
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
+                  <img class="position-absolute w-100 h-100" src="img/service-2.jpg" alt="" style="object-fit: cover">
+             
+                </div>
+				
+			
+				
+              </div>
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <div class="h-100">
+				
+				   <ul style="list-style-type: square; font-family: sans-serif;
+    font-weight: 20; font-weight:bold;
+	">
+	
+	
+
+
+
+
+
+
+	
+				  <li >Re-engineering capability 
+</li>
+				  <li>UL Approved Harness Manufacturer
+</li>
+				  <li>Inhouse quality capabilities
+</li>
+ 
+ 
+				  
+				</ul>
+                  
+                 
+
+
+
+
+
+                  
+                  
+                </div>
+              </div>
+            </div>
+          </section>
+		  
+		    <section id="EngProduct" class="py-5">
+		  
+            <div class="row g-6">
+              
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <div class="h-100">
+                  <div class="border-start border-5 border-primary ps-4 mb-5">
+                    <h6 class="text-body text-uppercase mb-2"></h6>
+                    <h1 class="display-6 mb-0">
+                     Plastic Instruments
+
+                    </h1>
+                  </div>
+                 
+
+
+
+
+                   <ul style="list-style-type: square; font-family: sans-serif;
+    font-weight: 20; font-weight:bold;
+	">
+	
+	
+
+
+
+
+
+
+
+
+	
+				  <li >55 to 180T Injection molding machines
+</li>
+				  <li>Precision ARBURG molding line
+</li>
+				  <li>Inhouse Tool Room with CNC machining center
+</li>
+ <li>CAD center
+</li>
+ 
+				  
+				</ul>
+                  
+                </div>
+              </div>
+              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
+                   <img class="position-absolute" src="img/pc3.png" alt="" style="object-fit: cover">
+             
+                </div>
+              </div>
+
+            </div>
+          </section>
+         
+		  </div>
         </div>
       </div>
     </div>
+    <!-- About End -->
     <!-- About End -->
 
 
@@ -259,7 +382,14 @@ Our state-of-the-art equipment is designed to give our customers the highest qua
         <div class="row g-5">
           <div class="col-lg-4 col-md-6">
             <h1 class="text-white mb-4">
-              <i class="fa fa-building text-primary me-3"></i>JV Associate
+              <a href="index.html" class="navbar-brand d-flex align-items-center">
+        <h1 class="m-0">
+          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
+		  
+		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
+		  
+        </h1>
+      </a>
             </h1>
             <p>
               We provide comprehensive sourcing with reduced total cost of ownership, exceeding expectation on quality with high integrity in supply chain solution in the areas of

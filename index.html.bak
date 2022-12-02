@@ -120,7 +120,7 @@
             <div class="dropdown-menu bg-light m-0">
               <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
               <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
-              <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+              <a href="Sheet.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
               <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
               <a href="ITServices.html" class="dropdown-item">IT services </a>
               <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
@@ -439,7 +439,7 @@
                   Three fully automated inline SMT lines,More than 1 Lac CPH per line
 
                 </p>
-                <a class="small" href=""
+                <a class="small" href="Wiring.html"
                   >READ MORE<i class="fa fa-arrow-right ms-3"></i
                 ></a>
               </div>
@@ -467,7 +467,7 @@
                 <p>
                   Automotive, Electrical and Refrigeration Components,Component Process Design and Tool Development
                 </p>
-                <a class="small" href=""
+                <a class="small" href="Molding.html"
                   >READ MORE<i class="fa fa-arrow-right ms-3"></i
                 ></a>
               </div>
@@ -481,7 +481,7 @@
                 <p>
                   Vacuum & Transfer Compression molding, Design capabilities 
                 </p>
-                <a class="small" href=""
+                <a class="small" href="PlasticComponents.html"
                   >READ MORE<i class="fa fa-arrow-right ms-3"></i
                 ></a>
               </div>
@@ -511,7 +511,7 @@
                   Tempor erat elitr rebum at clita dolor diam ipsum sit diam
                   amet diam et eos
                 </p>
-                <a class="small" href=""
+                <a class="small" href="Engineering.html"
                   >READ MORE<i class="fa fa-arrow-right ms-3"></i
                 ></a>
               </div>
