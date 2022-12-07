@@ -216,31 +216,44 @@
                     </h1>
                   </div>
                  
+ <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;margin-left:50px;">
+                 <div class="row g-4">
+                  <div class="col-sm-10 d-flex wow fadeIn" data-wow-delay="0.1s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Three fully automated inline SMT lines </h6>
+                  </div>
+				   <div class="col-sm-10 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">More than 1 Lac CPH per line
+                    </h6>
+                  </div>
+				   <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Capable of handling RoHS process with Nitrogen soldering
+                    </h6>
+                  </div>
+                 
+                  <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Fully automated 3D line inspection
+                    </h6>
+                  </div>
+                  
+                
+                </div>
+              </div>
 
 
 
-
-                   <ul style="list-style-type: square; font-family: sans-serif;
-    font-weight: 20; font-weight:bold;
-	">
-	
-	
-
-
-
-
-	
-				  <li >Three fully automated inline SMT lines
-</li>
-				  <li>More than 1 Lac CPH per line
-</li>
-				  <li>Capable of handling RoHS process with Nitrogen soldering
-</li>
- <li>Fully automated 3D line inspection
-</li>
- 
-				  
-				</ul>
+                 
                   
                 </div>
               </div>
@@ -265,39 +278,40 @@
 			
 				
               </div>
+			  
+			
               <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                <div class="h-100">
-				
-				   <ul style="list-style-type: square; font-family: sans-serif;
-    font-weight: 20; font-weight:bold;
-	">
-	
-	
-
-
-
-
-	
-				  <li >Reflow and Wave soldering Systems
-</li>
-				  <li>Precision PCB Router
-</li>
-				  <li>In-Circuit Test System
-</li>
- <li>Potting and Coating Machines
-</li>
- 
-				  
-				</ul>
-                  
+                 <div class="row g-4">
+                  <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.1s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Reflow and Wave soldering Systems </h6>
+                  </div>
+				   <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Precision PCB Router
+                    </h6>
+                  </div>
+				   <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">In-Circuit Test System
+                    </h6>
+                  </div>
                  
-
-
-
-
-
+                  <div class="col-sm-8 d-flex wow fadeIn" data-wow-delay="0.5s">
+                    <i
+                      class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"
+                    ></i>
+                    <h6 class="mb-0">Potting and Coating Machines 
+                    </h6>
+                  </div>
                   
-                  
+                
                 </div>
               </div>
             </div>
@@ -320,7 +334,7 @@
             <h1 class="text-white mb-4">
                <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
-          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 15px;margin-top: 10px;"/>
+          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
 		  
 		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
 		  
