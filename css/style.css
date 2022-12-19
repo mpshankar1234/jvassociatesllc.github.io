@@ -5,7 +5,7 @@
     --light: #F8F9FA;
     --dark: #182333;
 }
-
+body{ color: #000000;}
 .fa-check:before{content: "\f054";}
 h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 .btn-primary{background-color: #a8812d;
@@ -14,7 +14,9 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
     .border-primary {
         border-color: #a8812d !important;
     }
-
+    .fa-2x {
+       font-size: 1em; 
+  }
     .text-primary {
         color: #a8812d !important;
     }
