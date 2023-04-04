@@ -89,7 +89,7 @@
     >
       <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
-          <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
+          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
 		  
 		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
 		  
@@ -122,6 +122,7 @@
               <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
               <a href="ITServices.html" class="dropdown-item">IT services </a>
               <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
+			 <a href="sensing.html" class="dropdown-item">Sensing Solutions </a>
             </div>
           </div>
           <a href="#" class="nav-item nav-link">Careers</a>
@@ -189,9 +190,9 @@
               </h1>
             </div>
 			<p class="mb-0">
-              We one stop Manufacturing solutions for various Sheet Metal industries, specializes in sheet metal fabrication for mechanical products & assemblies.  With in-house capabilities to design the process, develop the Tooling and manufacturing we have become an industry leader in contract manufacturing. <span id="dots">...</span><span id="more"> 
-Our state-of-the-art equipment is designed to give our customers the highest quality product, and most are fully automated with unattended lights-out operations. All of our manufacturing facilities are certified to ISO 9001:2000 accreditation, IATF 16949-2016 from TUV complying with top-level quality systems and focus on Lean Manufacturing and Continuous Improvement every day. Our operational scalability and purchasing power help our customers face the challenges of demand fluctuations, design changes, short product lifecycles, and short lead times. 
-
+             Manufacturer of Sheet Metal Stamping Parts and assemblies (welding, riveting, spot welding, etc.) for Automotive as well as General Engineering industries. Over the years catering to major OEM’s as a leading Competitive supplier with best quality, 
+			 service and committed deliverables to the customers as per their requirements. 
+			 The product ranges are like Seat Frame, Body Parts, CCB, Clutch, Cooling Systems, Exhaust, Lighting, Transmission, Window Regulator, Wiper Motor Housing & etc.
             </span></p>
 
             </p>
@@ -203,92 +204,59 @@ Our state-of-the-art equipment is designed to give our customers the highest qua
             </div>
           </section>
 		  
-		  <section id="MolArea" class="py-5">
-            <div class="row g-5">
-              
-              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                <div class="h-100">
-                     <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2"> Areas of Expertise and capabilities</h6>
-             
-            </div>
-            <p class="mb-0">
-             o	In House multicavity hot and cold runner mold Design & Development <br>
-o	Injection Molding in Close loop & hybrid machines  <br>
-o	Insert Molding  <br>
-o	Over Molding  <br>
-o	Assembly and sub assembly of parts  <br>
-o	In house manufacturing of Jigs & Fixtures, Gauges for assembly <br>
-o	In house testing lab <br>
-o	Secondary operations –  <br>
-	  	  I.	Ultrasonic welding  <br>
-		  II.	Burnishing 
+		 <section id="MolArea" class="py-5">
 
-            </p>
+        <div class="row g-4 justify-content-center">
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="service-item bg-light overflow-hidden h-100">
+              <img class="img-fluid" src="img/EngPlastic/Picture1.jpg" alt="">
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">Body parts</h5>
+                
+                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+              </div>
+            </div>
           </div>
-                  
-                </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+            <div class="service-item bg-light overflow-hidden h-100">
+              <img class="img-fluid" src="img/EngPlastic/Picture2.jpg" alt="">
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">CCB Stamping Parts</h5>
+               
+                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
-              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
-                  <img class="position-absolute" src="img/sheet1.png" alt="" style="object-fit: cover">
-             
-                </div>
-              </div>
-
             </div>
-          </section>
-		  
-		   <section id="MolSOA" class="py-5">
-            <div class="row g-5">
-              
-              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                <div class="h-100">
-                     <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="border-start border-5 border-primary ps-4 mb-5">
-              <h6 class="text-body text-uppercase mb-2"> STATE-OF-THE-ART EQUIPMENTS</h6>
-             
-            </div>
-             <p class="mb-0">
-            o	Mechanical Presses 10 - 250 TON <br>
-o	Hydraulic Presses 40 - 100 TON<br>
-o	NC Feeder- 160 TON<br>
-o	Robot Co2 welding machines<br>
-o	Projection & SPOT welding machines<br>
-o	CNC Wire bending machine<br>
-o	CNC Tube bending machine<br>
-o	Shearing Machine<br>
-
-
-            </p>
           </div>
-                  
-                </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+            <div class="service-item bg-light overflow-hidden h-100">
+              <img class="img-fluid" src="img/EngPlastic/Picture3.jpg" alt="">
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">Air Filter Cups</h5>
+                
+                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
-              <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
-                  <img class="position-absolute " src="img/sheet2.png" alt="" style="object-fit: cover">
-             
-                </div>
-              </div>
-
             </div>
+          </div>
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="service-item bg-light overflow-hidden h-100">
+              <img class="img-fluid" src="img/EngPlastic/Picture4.jpg" alt="">
+              <div class="service-text position-relative text-center h-100 p-4">
+                <h5 class="mb-3">Interior Parts</h5>
+               
+                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+              </div>
+            </div>
+          </div>
+         
+        
+        </div>
+            
           </section>
+			
+           
           </div>
         </div>
 
-          
-		  
-		
-		  
-		  
-		   
-		  
-		  
-		  
-         
-		  
 		  
         </div>
       </div>
@@ -307,7 +275,7 @@ o	Shearing Machine<br>
             <h1 class="text-white mb-4">
               <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
-          <img src="img/svgexport-26.svg" style="width:85px; height:65px;"/>
+          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
 		  
 		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
 		  

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>JV Associate - About Us</title>
+    <title>JV Associate - Sensing</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="" name="keywords" />
     <meta content="" name="description" />
@@ -89,7 +89,7 @@
     >
       <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
-          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 25px;margin-top: 10px;"/>
+          <img src="img/svgexport-26.png" style="width:65px;height:45px;margin-right: 15px;margin-top: 10px;"/>
 		  
 		  <img src="img/svgexport-43.svg" style="width:245px; height:95px;margin-left:-40px;"/>
 		  
@@ -107,24 +107,18 @@
         <div class="navbar-nav ms-auto py-3 py-lg-0">
           <a href="index.html" class="nav-item nav-link ">Home</a>
           <a href="about.html" class="nav-item nav-link ">About Us</a>
-          <!--<a href="service.html" class="nav-item nav-link">Our Services</a>-->
           <div class="nav-item dropdown">
-            <a
-              href="#"
-              class="nav-link dropdown-toggle"
-              data-bs-toggle="dropdown"
-              >Our Services</a
-            >
-            <div class="dropdown-menu bg-light m-0">
-              <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
-              <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
-              <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
-              <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
-              <a href="ITServices.html" class="dropdown-item">IT services </a>
-              <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
-			 <a href="sensing.html" class="dropdown-item">Sensing Solutions </a>
+            <a  href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our Services</a>
+                <div class="dropdown-menu bg-light m-0">
+                <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
+                <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
+                <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
+                <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
+                <a href="ITServices.html" class="dropdown-item">IT services </a>
+                <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
+				 <a href="Sensing.html" class="dropdown-item">Sensing Solutions </a>
+              </div>
             </div>
-          </div>
           <a href="#" class="nav-item nav-link">Careers</a>
           <a href="#" class="nav-item nav-link">Contact Us</a>
         </div>
@@ -138,7 +132,7 @@
       data-wow-delay="0.1s"
     >
       <div class="container text-center py-5">
-        <h1 class="display-4 text-white animated slideInDown mb-4">Sheet Metals & Welded Assemblies</h1>
+        <h1 class="display-4 text-white animated slideInDown mb-4">Sensing Solutions</h1>
         <nav aria-label="breadcrumb animated slideInDown">
           <ol class="breadcrumb justify-content-center mb-0">
             <li class="breadcrumb-item">
@@ -146,19 +140,18 @@
             </li>
            
             <li class="breadcrumb-item text-primary active" aria-current="page">
-              Sheet Metals & Welded Assemblies
+              Sensing Solutions
             </li>
           </ol>
         </nav>
       </div>
     </div>
     <!-- Page Header End -->
-	
 
     <!-- About Start -->
     <div class="container-xxl py-5">
       <div class="container">
-        <div class="row g-6">
+        <div class="row g-12">
         
          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="list-group">
@@ -171,10 +164,10 @@
             </div>
           </div>-->
 		  
-		   <div class="col-lg-9 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+		   <div class="col-lg-12 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
             
             <section id="Molbase">
-            <div class="row g-5">
+            <div class="row g-12">
               <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                 <div class="position-relative overflow-hidden ps-5  h-100" style="min-height: 400px">
                   <img class="position-absolute w-100 h-100" src="img/carousel-1.jpg" alt="" style="object-fit: cover">
@@ -185,43 +178,40 @@
                 <div class="h-100">
                  <div class="border-start border-5 border-primary ps-4 mb-5">
               <h6 class="text-body text-uppercase mb-2"></h6>
-              <h1 class="display-6 mb-0">
-              Sheet Metals & Welded Assemblies
+              <h1 class="display-12 mb-0">
+              Sensing Solutions
               </h1>
             </div>
-			<p class="mb-0">
-             Manufacturer of Sheet Metal Stamping Parts and assemblies (welding, riveting, spot welding, etc.) for Automotive as well as General Engineering industries. Over the years catering to major OEM’s as a leading Competitive supplier with best quality, 
-			 service and committed deliverables to the customers as per their requirements. 
-			 The product ranges are like Seat Frame, Body Parts, CCB, Clutch, Cooling Systems, Exhaust, Lighting, Transmission, Window Regulator, Wiper Motor Housing & etc.
-            </span></p>
+			<p class="paratext">
+            
+We provide sensing products and solutions to a gamut of segments including Automotive, Industrial, Consumer Durable and IT, offering quality solutions and application support to renowned clients. Products are at highest standards to meet customer requirements through in-house engineering capability.
+Delivering end to end solutions of IIOT and Industry 4.0 through an ecosystem of trusted & renowned partners and has made its headway in niche markets by adapting to emerging technologies.
 
-            </p>
-			<a onclick="myFunction()" id="myBtn">Read more</a>
-                  
-                  
+            </span> <a onclick="myFunction()" id="myBtn" href="#" class="font-wait-bold">Read more</a> </p>
+                 
                 </div>
               </div>
             </div>
           </section>
 		  
-		 <section id="MolArea" class="py-5">
+		  <section id="MolArea" class="py-5">
 
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="img/EngPlastic/Picture1.jpg" alt="">
+              <img class="img-fluid" src="img/Sensing/EV-Solutions-1024x1024.jpg" alt="">
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Body parts</h5>
+                <h5 class="mb-3">Electric Vehicle Solutions</h5>
                 
-                <a class="small" href="sheetbodyparts.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="img/EngPlastic/Picture2.jpg" alt="">
+              <img class="img-fluid" src="img/Sensing/Sensors-sensing-solutions-1024x1024.jpg" alt="">
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">CCB Stamping Parts</h5>
+                <h5 class="mb-3">Sensors & Sensing Solutions</h5>
                
                 <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
@@ -229,31 +219,30 @@
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="img/EngPlastic/Picture3.jpg" alt="">
+              <img class="img-fluid" src="img/sensing/Solenoids-1024x1024.jpg" alt="">
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Air Filter Cups</h5>
+                <h5 class="mb-3">Solenoids</h5>
                 
-                <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                <a class="small" href="sensingSolenoid.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
             <div class="service-item bg-light overflow-hidden h-100">
-              <img class="img-fluid" src="img/EngPlastic/Picture4.jpg" alt="">
+              <img class="img-fluid" src="img/sensing/Electro-Mechanical-Assembly-1024x1024.jpg" alt="">
               <div class="service-text position-relative text-center h-100 p-4">
-                <h5 class="mb-3">Interior Parts</h5>
+                <h5 class="mb-3">Electro Mechanical Assembly</h5>
                
                 <a class="small" href="Product_innerpage.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
               </div>
             </div>
           </div>
-         
-        
+          
+
         </div>
             
           </section>
-			
-           
+				 	 		   
           </div>
         </div>
 
