@@ -254,6 +254,36 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
     background-size: cover;
 }
 
+.page-headerFacilities
+{
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Rubber/facilities/facility-img-03.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.page-headerAutomotive
+{
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Rubber/img-automotive-1.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.page-headerIndustrial
+{
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Rubber/img-industrial.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.page-headerAfterMarket
+{
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Rubber/img-aft-mkt-1.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+
+.page-headerPCBA
+{
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/PCB/IMG_3315_-scaled.jpg) center center no-repeat;
+  background-size: cover;
+}
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color: #999999;
 }
