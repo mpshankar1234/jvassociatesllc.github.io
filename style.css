@@ -194,19 +194,20 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 	margin: 30px 0;
 }
 
+
 /*** Header ***/
 .carousel-caption {
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    display: flex;
+    
     align-items: center;
     text-align: start;
     background: rgba(0, 0, 0, .65);
     z-index: 1;
 }
-
+.display-2{ font-size: 3.5rem;margin-top: 5%;}
 .carousel-control-prev,
 .carousel-control-next {
     width: 15%;
@@ -478,7 +479,7 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 .slider {
   height: 320px;
   width: 680px;
-  margin: 40px auto 0;
+  margin: 20px 0px 0px 100px;
   overflow: visible;
   position: relative;
 }
