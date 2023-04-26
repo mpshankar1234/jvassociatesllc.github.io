@@ -280,7 +280,7 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 }
 
 
-.page-headerPCBA
+.page-headerPCB
 {
   background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/PCB/IMG_3315_-scaled.jpg) center center no-repeat;
   background-size: cover;
@@ -505,7 +505,7 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 
 .slider .quote {
   font-size: 40px;
-  font-style: italic;
+  
 }
 
 .slider .source {

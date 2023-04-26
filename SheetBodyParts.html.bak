@@ -59,7 +59,7 @@
           </div>
           <div class="h-100 d-inline-flex align-items-center border-end px-3">
             <small class="far fa-envelope-open me-2"></small>
-             <small><a href = "mailto: sales@jvassociatesllc.com">sales@jvassociatesllc.com</a></small>
+             <small><a href = "mailto: sales@jvassociatellc.com">sales@jvassociatellc.com</a></small>
           </div>
           
         </div>
@@ -76,7 +76,7 @@
         <h1 class="m-0">
          
 		  
-		  <img src="img/JVAssociatelogo.png" style="width:245px; height:65px;margin-left:-20px;"/>
+		  <img src="img/JVAssociatelogo.png" style="width:245px; height:55px;margin-left:-20px;"/>
         </h1>
       </a>
       <button
@@ -94,7 +94,7 @@
           <div class="nav-item dropdown">
             <a  href="#"    class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our Services</a>
                 <div class="dropdown-menu bg-light m-0">
-                <a href="Wiring.html" class="dropdown-item">PCBA &  Wiring Harness  </a>
+                <a href="Wiring.html" class="dropdown-item">PCB &  Wiring Harness  </a>
                 <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
                 <a href="Sheet.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
                 <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
@@ -104,7 +104,7 @@
               </div>
             </div>
           <a href="#" class="nav-item nav-link">Careers</a>
-          <a href="Contactus.html" class="nav-item nav-link">Contact Us</a>
+          <a href="contactus.html" class="nav-item nav-link">Contact Us</a>
         </div>
       </div>
     </nav>
@@ -265,9 +265,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <h4 class="text-light mb-4">Quick Links</h4>
-            <a class="btn btn-link" href="">About Us</a>
+            <a class="btn btn-link" href="about.html">About Us</a>
             <a class="btn btn-link" href="">Our Services</a>
-            <a class="btn btn-link" href="">Careers</a>
+            <!--<a class="btn btn-link" href="">Careers</a>-->
             <a class="btn btn-link" href="contactus.html">Contact Us</a>
           </div>
           
