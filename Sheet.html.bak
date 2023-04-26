@@ -120,8 +120,8 @@
               <a href="Molding.html" class="dropdown-item">Engineering Plastic Components   </a>
               <a href="Molding.html" class="dropdown-item">Sheet Metals & Welded Assemblies </a>
               <a href="PlasticComponents.html" class="dropdown-item">Molded Rubber components </a>
-              <a href="ITServices.html" class="dropdown-item">IT services </a>
-              <a href="Engineering.html" class="dropdown-item">Engineering Services </a>
+              <!--<a href="ITServices.html" class="dropdown-item">IT services </a>-->
+              <a href="Engineering.html" class="dropdown-item">Engineering & IT Services</a>
 			 <a href="Sensing.html" class="dropdown-item">Sensing Solutions </a>
             </div>
           </div>
