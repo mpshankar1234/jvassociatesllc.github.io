@@ -250,10 +250,32 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/EngPlastic/Picture4.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/SheetMetal.jpg) center center no-repeat;
     background-size: cover;
 }
 
+.page-headerpc {
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/MoldedRC.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.page-headerss {
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Sensing1.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.page-headerepc {
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/EPC.jpg) center center no-repeat;
+  background-size: cover;
+}
+.page-headerpcb {
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/PCB1.jpg) center center no-repeat;
+  background-size: cover;
+}
+.page-headereit {
+  background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/EIT.jpg) center center no-repeat;
+  background-size: cover;
+}
 .page-headerFacilities
 {
   background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/Rubber/facilities/facility-img-03.jpg) center center no-repeat;
@@ -279,7 +301,7 @@ h1, .h1, h2, .h2, h3, .h3, h4{ color: #1f295c;}
 }
 
 
-.page-headerPCB
+.page-headerPCB2
 {
   background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/PCB/IMG_3315_-scaled.jpg) center center no-repeat;
   background-size: cover;
